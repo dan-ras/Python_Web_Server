@@ -1,7 +1,6 @@
 #############################################################################
 # Program:
-#    Lab PythonWebServer, Computer Networks
-#    Brother Jones, CSE354
+#    Python Web Server
 # Author:
 #    Daniel Rasmussen
 # Summary:
